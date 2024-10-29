@@ -1,0 +1,2 @@
+# Line Following Car
+I crafted a line-following RC car that practically drives itself, using sensors and Arduino to detect and follow a path. By placing infrared sensors underneath, the car reads and responds to a black line on the ground, adjusting its wheels to stay on course. It’s a fun and dynamic project that brings robotics to life, mimicking autonomous vehicle tech in a playful way. Watching the car zip along its track feels like a small-scale glimpse into the world of self-driving cars!
